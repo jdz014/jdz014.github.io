@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Jorge Zazueta
+subtitle: My journey as a Data Scientist
 ---
+- Lambda School Data Science Program 2020 (current)
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jorge Zazueta. I'm a Data Scientist in Phoenix who aspires to change the world through Data Science.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm beginning my journey in data science from scratch in hopes of learning new skills to significantly change
+the lives of many people.
