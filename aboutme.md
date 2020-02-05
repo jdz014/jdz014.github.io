@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jorge Zazueta
-subtitle: My journey as a Data Scientist
+subtitle: Data Scientist
 ---
 - Lambda School Data Science Program 2020 (current)
 
