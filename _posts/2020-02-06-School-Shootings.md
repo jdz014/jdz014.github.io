@@ -28,4 +28,5 @@ It seems it is **more likely** for shootings to occur closer to **February** and
 Now that leaves me wondering why. Time to research more data and see if we can get to the bottom of this.
 
 ![My Work](https://colab.research.google.com/drive/1nGEmg7NQyyF3A3eKvFvyqvicHLN1N5lF)
+
 ![Data Source](https://www.kaggle.com/ecodan/school-shootings-us-1990present/data#pah_wikp_combo.csv)
