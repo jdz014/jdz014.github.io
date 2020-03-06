@@ -24,7 +24,9 @@ models turned out to be better than guessing.
 Using one of my models I looked into my feature with the most importance(based off permutation importance) and found this:
 
 Class 0: Indiscriminate
+
 Class 1: Other
+
 Class 2: Targeted
 
 It seems as the number of caucasion students increase the probability of a shooting being 'indiscriminate' or 'other' increase,
