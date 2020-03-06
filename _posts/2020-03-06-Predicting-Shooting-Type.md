@@ -19,7 +19,7 @@ using cross-validation** that gave me an accuracy for predicting the school shoo
 a few other **tree based models using cross-validation** that gave me accuracies within the **61-62% range**. All of my 
 models turned out to be better than guessing.
 
-*Insights*
+### Insights
 
 Using one of my models I looked into my feature with the most importance(based off permutation importance) and found this:
 
